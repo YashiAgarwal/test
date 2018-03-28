@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3697cab3-83e7-4e29-a4f8-f6028d2aa147" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CodingTest/FillBoard.java" afterPath="$PROJECT_DIR$/src/CodingTest/FillBoard.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CodingTest/StartProgram.java" afterPath="$PROJECT_DIR$/src/CodingTest/StartProgram.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,8 +30,18 @@
       <file leaf-file-name="FillBoard.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CodingTest/FillBoard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="266">
+              <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckForWin.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CodingTest/CheckForWin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -501,10 +510,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingTest/CheckForWin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/CodingTest/FillBoard.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="266">
+          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
           <folding />
         </state>
       </provider>
