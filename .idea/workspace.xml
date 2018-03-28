@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3697cab3-83e7-4e29-a4f8-f6028d2aa147" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CodingTest/FillBoard.java" afterPath="$PROJECT_DIR$/src/CodingTest/FillBoard.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CodingTest/StartProgram.java" afterPath="$PROJECT_DIR$/src/CodingTest/StartProgram.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,11 +16,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="StartProgram.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="StartProgram.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CodingTest/StartProgram.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="57" column="27" lean-forward="false" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+            <state relative-caret-position="209">
+              <caret line="65" column="52" lean-forward="false" selection-start-line="65" selection-start-column="52" selection-end-line="65" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -28,11 +28,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FillBoard.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="FillBoard.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CodingTest/FillBoard.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+            <state relative-caret-position="190">
+              <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -117,6 +117,7 @@
         <option value="$PROJECT_DIR$/src/CodingTest/DiagonalRule.java" />
         <option value="$PROJECT_DIR$/src/CodingTest/Singleton.java" />
         <option value="$PROJECT_DIR$/src/CodingTest/StartProgram.java" />
+        <option value="$PROJECT_DIR$/src/CodingTest/FillBoard.java" />
       </list>
     </option>
   </component>
@@ -480,14 +481,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CodingTest/FillBoard.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="22" lean-forward="false" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CodingTest/Singleton.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -500,11 +493,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CodingTest/StartProgram.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="57" column="27" lean-forward="false" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
+        <state relative-caret-position="209">
+          <caret line="65" column="52" lean-forward="false" selection-start-line="65" selection-start-column="52" selection-end-line="65" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CodingTest/FillBoard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
         </state>
       </provider>
     </entry>

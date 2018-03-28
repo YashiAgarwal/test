@@ -62,7 +62,8 @@ public class StartProgram {
         }
 
         public void runGame(String[][] blocked, Map<String, Integer> inputList){
-
+          FillBoard fillBoard = new FillBoard();
+          fillBoard.fill(blocked,inputList,singleton);
         }
 
 
