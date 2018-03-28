@@ -1,8 +1,6 @@
 package CodingTest;
 
-import java.util.HashMap;
-import java.util.Map;
-import java.util.Scanner;
+import java.util.*;
 
 import static javafx.application.Platform.exit;
 
@@ -54,14 +52,20 @@ public class StartProgram {
                     if (column >= 6)
                         System.out.println("column overflow");
                     else {
-                        singleton.inputList.put(singleton.colours[i], column);
+                        if(singleton.inputList.containsKey(singleton.colours[i])){
+                            singleton.inputList.get(singleton.colours[i]).add(column);
+                        }else {
+                            List<Integer> list = new ArrayList<>();
+                            list.add(column);
+                            singleton.inputList.put(singleton.colours[i], list);
+                        }
                         c--;
                     }
 
                 }
         }
 
-        public void runGame(String[][] blocked, Map<String, Integer> inputList){
+        public void runGame(String[][] blocked, Map<String, List<Integer>> inputList){
 
         }
 

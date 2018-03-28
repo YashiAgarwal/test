@@ -1,6 +1,7 @@
 package CodingTest;
 
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -11,7 +12,7 @@ public class Singleton {
     String colours[] = new String[3];
     int chances[];
     String blocked[][] = new String[6][6];
-    Map<String,Integer> inputList = new HashMap<>();
+    Map<String,List<Integer>> inputList = new HashMap<>();
     private Singleton() {
 
     }
