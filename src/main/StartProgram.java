@@ -6,5 +6,7 @@ package main;
 public class StartProgram {
     public static void main(String[] args) {
         System.out.println("Hello world");
+
+
     }
 }
